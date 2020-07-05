@@ -1811,6 +1811,14 @@
          "domains":[
             "magisto.com"
          ]
+      },
+       {
+         "name":"Zoho",
+         "url":"https://bugbounty.zoho.com/",
+         "bounty":true,
+         "domains":[
+            "zoho.com"
+         ]
       }
    ]
 }
